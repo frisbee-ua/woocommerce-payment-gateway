@@ -1,0 +1,318 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - Frisbee | Buy Now, Pay Later\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-29 13:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#: woocommerce-frisbee.php:84 woocommerce-frisbee.php:372
+msgid "Buy now, pay later service"
+msgstr ""
+
+#: woocommerce-frisbee.php:180
+msgid "Place order"
+msgstr ""
+
+#: woocommerce-frisbee.php:223
+msgid "Enable/Disable"
+msgstr ""
+
+#: woocommerce-frisbee.php:225
+msgid "Enable Frisbee Payment Module."
+msgstr ""
+
+#: woocommerce-frisbee.php:227
+msgid "Show in the Payment List as a payment option"
+msgstr ""
+
+#: woocommerce-frisbee.php:230
+msgid "Test mode:"
+msgstr ""
+
+#: woocommerce-frisbee.php:232
+msgid "Enable Test Mode"
+msgstr ""
+
+#: woocommerce-frisbee.php:234
+msgid "Place the payment gateway in test mode using test Merchant id."
+msgstr ""
+
+#: woocommerce-frisbee.php:238
+msgid "Title:"
+msgstr ""
+
+#: woocommerce-frisbee.php:240
+msgid "Frisbee Online Payments"
+msgstr ""
+
+#: woocommerce-frisbee.php:241
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: woocommerce-frisbee.php:245
+msgid "Description:"
+msgstr ""
+
+#: woocommerce-frisbee.php:247
+msgid ""
+"Pay securely by Credit or Debit Card or Internet Banking through frisbee "
+"service."
+msgstr ""
+
+#: woocommerce-frisbee.php:248
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: woocommerce-frisbee.php:252
+msgid "Merchant ID"
+msgstr ""
+
+#: woocommerce-frisbee.php:258
+msgid "Payment key"
+msgstr ""
+
+#: woocommerce-frisbee.php:260
+msgid "Given to Merchant by frisbee"
+msgstr ""
+
+#: woocommerce-frisbee.php:264
+msgid "Show Frisbee logo"
+msgstr ""
+
+#: woocommerce-frisbee.php:266
+msgid ""
+"Show the logo in the payment method section for the user"
+msgstr ""
+
+#: woocommerce-frisbee.php:268
+msgid "Tick to show \"frisbee\" logo"
+msgstr ""
+
+#: woocommerce-frisbee.php:272 woocommerce-frisbee.php:275
+msgid "Payment type"
+msgstr ""
+
+#: woocommerce-frisbee.php:279
+msgid "Show calendar on checkout"
+msgstr ""
+
+#: woocommerce-frisbee.php:281
+msgid "Show recurring payment calendar on checkout"
+msgstr ""
+
+#: woocommerce-frisbee.php:283
+msgid "Tick to show show recurring payment calendar on checkout"
+msgstr ""
+
+#: woocommerce-frisbee.php:311
+msgid "Enable force detect lang"
+msgstr ""
+
+#: woocommerce-frisbee.php:313 woocommerce-frisbee.php:315
+msgid "Enable detecting site lang if it used"
+msgstr ""
+
+#: woocommerce-frisbee.php:319
+msgid "Return Page"
+msgstr ""
+
+#: woocommerce-frisbee.php:321
+msgid "Default order page"
+msgstr ""
+
+#: woocommerce-frisbee.php:322
+msgid "URL of success page"
+msgstr ""
+
+#: woocommerce-frisbee.php:326
+msgid "Successful payment order status"
+msgstr ""
+
+#: woocommerce-frisbee.php:330
+msgid "The default order status after successful payment."
+msgstr ""
+
+#: woocommerce-frisbee.php:333
+msgid "Payment expired order status"
+msgstr ""
+
+#: woocommerce-frisbee.php:337
+msgid "Order status when payment was expired."
+msgstr ""
+
+#: woocommerce-frisbee.php:340
+msgid "Payment declined order status"
+msgstr ""
+
+#: woocommerce-frisbee.php:344
+msgid "Order status when payment was declined."
+msgstr ""
+
+#: woocommerce-frisbee.php:356
+msgid "Default status"
+msgstr ""
+
+#: woocommerce-frisbee.php:371
+msgid "frisbee.eu"
+msgstr ""
+
+#: woocommerce-frisbee.php:394
+msgid "Card Number:"
+msgstr ""
+
+#: woocommerce-frisbee.php:400
+msgid "XXXXXXXXXXXXXXXX"
+msgstr ""
+
+#: woocommerce-frisbee.php:406
+msgid "Expiry Date:"
+msgstr ""
+
+#: woocommerce-frisbee.php:409
+msgid "CVV2:"
+msgstr ""
+
+#: woocommerce-frisbee.php:425
+msgid "XXX"
+msgstr ""
+
+#: woocommerce-frisbee.php:431
+msgid "Pay"
+msgstr ""
+
+#: woocommerce-frisbee.php:485
+msgid "Order: "
+msgstr ""
+
+#: woocommerce-frisbee.php:522
+msgid "Pay via Frisbee.eu"
+msgstr ""
+
+#: woocommerce-frisbee.php:705
+msgid "Refund Frisbee status: processing"
+msgstr ""
+
+#: woocommerce-frisbee.php:708 woocommerce-frisbee.php:709
+msgid "Refund Frisbee status: Declined"
+msgstr ""
+
+#: woocommerce-frisbee.php:711
+msgid "Refund Frisbee status: Unknown"
+msgstr ""
+
+#: woocommerce-frisbee.php:712
+msgid "Refund Frisbee status: Unknown. Try to contact support"
+msgstr ""
+
+#: woocommerce-frisbee.php:781
+msgid ""
+"An error has occurred during payment. Please contact us to ensure your order "
+"has submitted."
+msgstr ""
+
+#: woocommerce-frisbee.php:784
+msgid "Amount incorrect."
+msgstr ""
+
+#: woocommerce-frisbee.php:787
+msgid "An error has occurred during payment. Merchant data is incorrect."
+msgstr ""
+
+#: woocommerce-frisbee.php:790
+msgid "Payment method incorrect."
+msgstr ""
+
+#: woocommerce-frisbee.php:802
+msgid "Transaction ERROR: signature is not valid"
+msgstr ""
+
+#: woocommerce-frisbee.php:804
+msgid "An error has occurred during payment. Signature is not valid."
+msgstr ""
+
+#: woocommerce-frisbee.php:808
+msgid ""
+"Thank you for shopping with us. However, the request has been rejected."
+msgstr ""
+
+#: woocommerce-frisbee.php:822
+msgid ""
+"Thank you for shopping with us. However, the request has been annuled."
+msgstr ""
+
+#: woocommerce-frisbee.php:823
+msgid "Transaction ERROR: order expired<br/>Frisbee ID: "
+msgstr ""
+
+#: woocommerce-frisbee.php:835
+msgid "Thank you for shopping with us. But your payment declined."
+msgstr ""
+
+#: woocommerce-frisbee.php:843
+msgid "Frisbee payment successful.<br/>Frisbee ID: "
+msgstr ""
+
+#: woocommerce-frisbee.php:848
+msgid "Transaction ERROR: amount incorrect<br/>Frisbee ID: "
+msgstr ""
+
+#: woocommerce-frisbee.php:886
+msgid ""
+"Thank you for shopping with us. Your account has been charged and your "
+"transaction is successful."
+msgstr ""
+
+#: woocommerce-frisbee.php:938
+msgid "Built-in form"
+msgstr ""
+
+#: woocommerce-frisbee.php:939
+msgid "In-store payment page"
+msgstr ""
+
+#: woocommerce-frisbee.php:940
+msgid "Redirection"
+msgstr ""
+
+#: woocommerce-frisbee.php:948
+msgid "Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce - Frisbee | Buy Now, Pay Later"
+msgstr ""
+
+#. Description of the plugin
+msgid "Frisbee payments plugin for WooCommerce."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://frisbee.eu"
+msgstr ""
+
+#. Author of the plugin
+msgid "Frisbee - Unified Payment Platform"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://frisbee.eu/"
+msgstr ""
+
+msgid "Buy now, pay later"
+msgstr ""
+
+msgid "Keep data"
+msgstr ""
+
+msgid "Keep plugin data and settings after uninstall"
+msgstr ""
